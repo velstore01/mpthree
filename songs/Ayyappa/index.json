@@ -151,8 +151,26 @@
 },
 {
 "sname" : "Kannezhuthi Swamigeetham",
-"stitle" : "Ayyappa Track",
+"stitle" : "Tamil Track",
 "slink" : "https://vel1.velayudhan.me/songs/Ayyappa/store/Kannezhuthi Swamigeetham.mp3",
 "simage" : "https://vel1.velayudhan.me/songs/Ayyappa/img/2.jpg"
+},
+{
+"sname" : "Enge Manakkuthu",
+"stitle" : "Tamil Track",
+"slink" : "https://vel1.velayudhan.me/songs/Ayyappa/store/Enge Manakkuthu.mp3",
+"simage" : "https://vel1.velayudhan.me/songs/Ayyappa/img/3.jpg"
+},
+{
+"sname" : "Sabarimalai Saranamalai",
+"stitle" : "Tamil Track",
+"slink" : "https://vel1.velayudhan.me/songs/Ayyappa/store/Sabarimalai Saranamalai.mp3",
+"simage" : "https://vel1.velayudhan.me/songs/Ayyappa/img/4.jpg"
+},
+{
+"sname" : "Swamiye Saranam Ayyappa",
+"stitle" : "Tamil Track",
+"slink" : "https://vel1.velayudhan.me/songs/Ayyappa/store/Swamiye Saranam Ayyappa.mp3",
+"simage" : "https://vel1.velayudhan.me/songs/Ayyappa/img/4.jpg"
 }
 ]
