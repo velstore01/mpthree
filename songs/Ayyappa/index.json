@@ -364,5 +364,35 @@
 "stitle" : "Telugu Track",
 "slink" : "https://vel1.velayudhan.me/songs/Ayyappa/store/Bhutanathapahimam.mp3",
 "simage" : "https://vel1.velayudhan.me/songs/Ayyappa/img/6.jpg"
+},
+{
+"sname" : "Ambedu Villedu",
+"stitle" : "Malayalam Track",
+"slink" : "https://vel1.velayudhan.me/songs/Ayyappa/store/Ambedu Villedu.mp3",
+"simage" : "https://vel1.velayudhan.me/songs/Ayyappa/img/1.jpg"
+},
+{
+"sname" : "Ayyappa M",
+"stitle" : "Malayalam Track",
+"slink" : "https://vel1.velayudhan.me/songs/Ayyappa/store/Ayyappa M.mp3",
+"simage" : "https://vel1.velayudhan.me/songs/Ayyappa/img/2.jpg"
+},
+{
+"sname" : "Gangayaaru Pirakkunnu",
+"stitle" : "Malayalam Track",
+"slink" : "https://vel1.velayudhan.me/songs/Ayyappa/store/Gangayaaru Pirakkunnu.mp3",
+"simage" : "https://vel1.velayudhan.me/songs/Ayyappa/img/3.jpg"
+},
+{
+"sname" : "Ikkattil Puliyund",
+"stitle" : "Malayalam Track",
+"slink" : "https://vel1.velayudhan.me/songs/Ayyappa/store/Ikkattil Puliyund.mp3",
+"simage" : "https://vel1.velayudhan.me/songs/Ayyappa/img/4.jpg"
+},
+{
+"sname" : "Udichuyarnnu",
+"stitle" : "Malayalam Track",
+"slink" : "https://vel1.velayudhan.me/songs/Ayyappa/store/Udichuyarnnu.mp3",
+"simage" : "https://vel1.velayudhan.me/songs/Ayyappa/img/5.jpg"
 }
 ]
